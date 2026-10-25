@@ -18,3 +18,4 @@ https://ai.studio/apps/6570cd44-649f-4d1b-b23a-afd26be01912
 3. Run the app:
    `npm run dev`# DropAid
 # DropAid_
+# DropAid_
